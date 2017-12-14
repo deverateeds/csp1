@@ -108,6 +108,10 @@ a:hover {
   font-size: 1.3em;
 }
 
+p.text-center {
+  font-size: 0.9em;
+}
+
 ul.dropdown-menu,
 .navbar {
   background-color: #EFEFEF;
