@@ -56,10 +56,6 @@ p>a:hover {
   font-size: 1.1em;
 }
 
-a.sources {
-  font-size:1em;
-}
-
 p,
 a,
 .active a,
@@ -329,6 +325,11 @@ hr{
 
 p.lead {
   padding-top:20px;
+}
+
+a.sources {
+  font-size:1em;
+  text-decoration: underline; 
 }
 
 /*Tablet Devices*/
