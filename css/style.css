@@ -68,7 +68,7 @@ a:hover,
 .well > h3,
 .jumbotron h3 {
   color: #7D7D7D;
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 p,
@@ -341,6 +341,11 @@ div#disclaimer.container-fluid .jumbotron {
     margin-bottom: 0;
     padding: 29% 20% 0 20%;
 }
+.well > h3,
+.jumbotron h3 {
+  color: #7D7D7D;
+  font-size: 1.5em;
+}
 }
 
 /*Desktop*/
@@ -355,6 +360,11 @@ div#disclaimer.container-fluid .jumbotron {
    margin-top: 0px;
     margin-bottom: 0;
     padding: 29% 20% 0 20%;
+}
+.well > h3,
+.jumbotron h3 {
+  color: #7D7D7D;
+  font-size: 1.5em;
 }
 }
 
