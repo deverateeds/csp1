@@ -56,6 +56,10 @@ p>a:hover {
   font-size: 1.1em;
 }
 
+a.sources {
+  font-size:1em;
+}
+
 p,
 a,
 .active a,
