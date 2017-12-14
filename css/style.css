@@ -335,6 +335,12 @@ p.lead {
   .navbar-brand {
     padding-left: 35px;
 }
+div#disclaimer.container-fluid .jumbotron {
+  height: 100vh;
+   margin-top: 0px;
+    margin-bottom: 0;
+    padding: 29% 20% 0 20%;
+}
 }
 
 /*Desktop*/
@@ -343,9 +349,13 @@ p.lead {
   .navbar-brand {
     padding-left: 35px;
 }
+
+div#disclaimer.container-fluid .jumbotron {
+  height: 100vh;
+   margin-top: 0px;
+    margin-bottom: 0;
+    padding: 29% 20% 0 20%;
+}
 }
 
-/***disclaimer***/
-.container-fluid .jumbotron {
-    padding: 40px;
-}
+
