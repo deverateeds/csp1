@@ -157,6 +157,7 @@ span.icon-bar {
     border-radius: 0;
     background-color: #D7D7D7;
 }
+ 
 
 .jumbotron h3 {
   line-height: 1.5;
@@ -336,38 +337,42 @@ p.lead {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .navbar-brand {
     padding-left: 35px;
-}
-div#disclaimer.container-fluid .jumbotron {
-  height: 100vh;
-   margin-top: 0px;
+  }
+  div#disclaimer.container-fluid .jumbotron {
+    height: 100vh;
+    margin-top: 0px;
     margin-bottom: 0;
     padding: 29% 20% 0 20%;
-}
-/*.well > h3,
-.jumbotron h3 {
+  }
+  .well > h3,
+  .jumbotron h3 {
   color: #7D7D7D;
-  font-size: 1.5em;
+  font-size: 1.3em;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5;
 }
-}*/
+
 
 /*Desktop*/
 
 @media only screen and (min-width: 992px) {
   .navbar-brand {
     padding-left: 35px;
-}
+  }
+  .well > h3,
+  .jumbotron h3 {
+    color: #7D7D7D;
+    font-size: 1.3em;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+  }
 
-div#disclaimer.container-fluid .jumbotron {
-  height: 100vh;
-   margin-top: 0px;
+  div#disclaimer.container-fluid .jumbotron {
+    height: 100vh;
+    margin-top: 0px;
     margin-bottom: 0;
     padding: 29% 20% 0 20%;
-}
-/*.well > h3,
-.jumbotron h3 {
-  color: #7D7D7D;
-  font-size: 1.5em;
-}*/
+  }
 }
 
 
