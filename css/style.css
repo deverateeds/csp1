@@ -16,15 +16,15 @@
 /***NAV***/
 
 #custom-nav { 
-    -webkit-box-shadow: 0px 1px 1px #acacac;
-    -moz-box-shadow:    0px 1px 1px #acacac;
-    box-shadow:         0px 1px 1px #acacac;
-    z-index:999;
+  -webkit-box-shadow: 0px 1px 1px #acacac;
+  -moz-box-shadow:    0px 1px 1px #acacac;
+  box-shadow:         0px 1px 1px #acacac;
+  z-index:999;
 } /*Shadow effect of nav*/
 
 .container-fluid>.navbar-header {
-    margin-left: 0;
-    margin-right: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .row {
@@ -123,10 +123,6 @@ ul.dropdown-menu,
   background-color: #EFEFEF;
 }
 
-/*.navbar-brand {
-    padding: 15px 15px;
-}*/
-
 ul.nav.navbar-nav {
   margin-left: 40px;
 }
@@ -134,7 +130,6 @@ ul.nav.navbar-nav {
 .navbar-nav>li>.dropdown-menu {
   margin-left: 20px;
 }
-
 
 button.navbar-toggle {
   border: 1px solid #4A4949;
@@ -145,20 +140,20 @@ span.icon-bar {
 }
 
 
+
 /******HOME******/
 
 /***JUMBOTRON***/
 .container-fluid .jumbotron {
-    padding-right: 25px;
-    padding-left: 25px;
-    margin-top: 40px;
-    margin-bottom: 0;
-    padding-bottom: 30px;
-    border-radius: 0;
-    background-color: #D7D7D7;
+  padding-right: 25px;
+  padding-left: 25px;
+  margin-top: 40px;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+  border-radius: 0;
+  background-color: #D7D7D7;
 }
  
-
 .jumbotron h3 {
   line-height: 1.5;
   padding-left:20px;
@@ -298,6 +293,7 @@ div#img-links  div.col-lg-4  {
     box-shadow:         0px -1px 2px #acacac;
     z-index:999;
 }
+
 p {
     margin: 0;
 }
@@ -314,7 +310,6 @@ p {
 #image-content img {
     width: 100vw;
     padding-top: 50px;
-    
 }
 
 div.row >div.well {
