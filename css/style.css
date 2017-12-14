@@ -347,6 +347,5 @@ p.lead {
 
 /***disclaimer***/
 .container-fluid .jumbotron {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px;
 }
