@@ -45,11 +45,11 @@
 .navbar>.container-fluid .navbar-brand,
 .jumbotron h1,
 p.text-center,
-p>a,
-p>a:hover {
+p>a {
   font-family: 'Oswald', sans-serif;
   color: #4A4949;
 }
+
 
 p>a,
 p>a:hover {
@@ -97,7 +97,7 @@ a:visited,
 
 a:hover,
 .dropdown-menu>li>a:hover { 
-  color: #A9A9A9;
+  color: #FF3B3F;
 }
 
 .navbar>.container-fluid .navbar-brand {
@@ -197,6 +197,10 @@ div#img-links  div.col-lg-4  {
   padding-right:0;
 }
 
+p>a:hover {
+  font-family: 'Lato', sans-serif;
+  color: #FF3B3F;
+}
 
 .hovereffect {
   width: 100%;
@@ -281,6 +285,8 @@ div#img-links  div.col-lg-4  {
   transform: translate3d(0,0,0);
 }
 
+
+
 .container-fluid#bottom {
   margin-right: 0;
 }
@@ -324,13 +330,15 @@ hr{
 }
 
 p.lead {
-  padding-top:20px;
+  font-size: 1.3em;
 }
 
 a.sources {
   font-size:1em;
   text-decoration: underline; 
 }
+
+
 
 /*Tablet Devices*/
 
